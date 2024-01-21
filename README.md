@@ -14,13 +14,13 @@ This shell script automates the setup of Google Cloud SQL Auth Proxy on an Ubunt
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sarath-pm/GCP-cloudsqlproxy-service.git
+   git clone https://github.com/sarath-pm/gcp-cloudsqlproxy-systemd.git
    ```
    
 2. Navigate to the script directory:
 
    ```bash
-   cd GCP-cloudsqlproxy-service
+   cd gcp-cloudsqlproxy-systemd
    ```
 
 3. Run the Script
