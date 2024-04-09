@@ -2,7 +2,7 @@
 set -e
 
 # Check if INSTANCE_CONNECTION_NAME and PORT is provided as an argument
-if [ $# -eq 0 ]; then
+if [ $# -eq 1 ]; then
   echo "Usage: $0 <INSTANCE_CONNECTION_NAME> <PORT>"
   exit 1
 fi
